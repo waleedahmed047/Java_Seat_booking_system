@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
        Scanner scan=new Scanner(System.in);
-       System.out.println("Hello sir Wellcome to over bus service");
+       System.out.println("Hello! Wellcome to over bus service");
        System.out.println("These seat are avaiable:");
        String[][] seat=new String[4][4];
        for(int i=0;i<seat.length;i++){
